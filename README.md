@@ -37,7 +37,16 @@
 
 
 <p align="center">
-<a href="https://t.me/rupeshpowar"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/rupeshpowar">
+     <img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram">
+</a>
+<a href="https://www.hackerrank.com/rupeshpowar1234">
+    <img title="HackerRank" src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank">
+</a>
+ <a href="https://www.linkedin.com/in/rupesh-powar-842a37232">
+  <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn">
+</a>
+
 </p>
 
 <details>

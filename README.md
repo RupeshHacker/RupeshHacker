@@ -31,12 +31,6 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<!-- 
-<p align="center">
-<a href="https://github.com/rupeshhacker"><img title="GitHub" src="https://img.shields.io/badge/rupeshhacker?style=for-the-badge&logo=github"></a>
-<a href="https://www.youtube.com/channel/UCtBILuQgvXHPfvOUdcmMS2Q"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Abhi The MØÐÐĒR-red?style=for-the-badge&logo=Youtube"></a>
-</p>
--->
 
 
 <p align="center">
@@ -46,7 +40,7 @@
 <a href="https://www.hackerrank.com/rupeshpowar1234">
     <img title="HackerRank" src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank">
 </a>
- <a href="https://www.linkedin.com/in/rupesh-powar-842a37232">
+ <a href="https://www.linkedin.com/in/rupeshpowar">
   <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn">
 </a>
 
@@ -54,22 +48,6 @@
 
 <details>
     <summary><b>Detailed Contribution Info:</b></summary>
-<p align="center"
-
-
+<p align="center">
 ![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupeshHacker&show_icons=true&theme=transparent)
-
-<!--
-**RupeshHacker/RupeshHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>

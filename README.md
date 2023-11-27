@@ -47,7 +47,9 @@
 </p>
 
 <details>
-    <summary><b>Detailed Contribution Info:</b></summary>
-<p align="center">
-![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupeshHacker&show_icons=true&theme=transparent)
+  <summary><b>Detailed Contribution Info:</b></summary>
+  <p align="center">
+    <img alt="Rupesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RupeshHacker&show_icons=true&theme=transparent">
+  </p>
 </details>
+

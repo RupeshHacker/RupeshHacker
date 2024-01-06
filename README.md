@@ -56,7 +56,7 @@
         <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn">
     </a>
    <a href="https://twitter.com/RupeshPowar8055">
-    <img title="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter">
+    <img title="Twitter" src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=Twitter">
    </a>
 </p>
 
